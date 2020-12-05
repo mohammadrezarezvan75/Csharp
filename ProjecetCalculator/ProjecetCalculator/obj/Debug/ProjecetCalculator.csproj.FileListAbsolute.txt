@@ -1,0 +1,9 @@
+E:\c#\C# Project\ProjecetCalculator\ProjecetCalculator\bin\Debug\ProjecetCalculator.exe.config
+E:\c#\C# Project\ProjecetCalculator\ProjecetCalculator\bin\Debug\ProjecetCalculator.exe
+E:\c#\C# Project\ProjecetCalculator\ProjecetCalculator\bin\Debug\ProjecetCalculator.pdb
+E:\c#\C# Project\ProjecetCalculator\ProjecetCalculator\obj\Debug\ProjecetCalculator.csprojResolveAssemblyReference.cache
+E:\c#\C# Project\ProjecetCalculator\ProjecetCalculator\obj\Debug\ProjecetCalculator.Form1.resources
+E:\c#\C# Project\ProjecetCalculator\ProjecetCalculator\obj\Debug\ProjecetCalculator.Properties.Resources.resources
+E:\c#\C# Project\ProjecetCalculator\ProjecetCalculator\obj\Debug\ProjecetCalculator.csproj.GenerateResource.Cache
+E:\c#\C# Project\ProjecetCalculator\ProjecetCalculator\obj\Debug\ProjecetCalculator.exe
+E:\c#\C# Project\ProjecetCalculator\ProjecetCalculator\obj\Debug\ProjecetCalculator.pdb

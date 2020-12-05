@@ -1,0 +1,6 @@
+C:\Users\MRZR\Desktop\C# Project\FiveApp_if\FiveApp_SwitchCaseExmaple\FiveApp_SwitchCaseExmaple\bin\Debug\FiveApp_SwitchCaseExmaple.exe.config
+C:\Users\MRZR\Desktop\C# Project\FiveApp_if\FiveApp_SwitchCaseExmaple\FiveApp_SwitchCaseExmaple\bin\Debug\FiveApp_SwitchCaseExmaple.exe
+C:\Users\MRZR\Desktop\C# Project\FiveApp_if\FiveApp_SwitchCaseExmaple\FiveApp_SwitchCaseExmaple\bin\Debug\FiveApp_SwitchCaseExmaple.pdb
+C:\Users\MRZR\Desktop\C# Project\FiveApp_if\FiveApp_SwitchCaseExmaple\FiveApp_SwitchCaseExmaple\obj\Debug\FiveApp_SwitchCaseExmaple.csprojResolveAssemblyReference.cache
+C:\Users\MRZR\Desktop\C# Project\FiveApp_if\FiveApp_SwitchCaseExmaple\FiveApp_SwitchCaseExmaple\obj\Debug\FiveApp_SwitchCaseExmaple.exe
+C:\Users\MRZR\Desktop\C# Project\FiveApp_if\FiveApp_SwitchCaseExmaple\FiveApp_SwitchCaseExmaple\obj\Debug\FiveApp_SwitchCaseExmaple.pdb

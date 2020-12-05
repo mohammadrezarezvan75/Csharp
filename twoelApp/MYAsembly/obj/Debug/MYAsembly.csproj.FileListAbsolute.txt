@@ -1,0 +1,5 @@
+E:\c#\C# Project\twoelApp\MYAsembly\bin\Debug\MYAsembly.dll
+E:\c#\C# Project\twoelApp\MYAsembly\bin\Debug\MYAsembly.pdb
+E:\c#\C# Project\twoelApp\MYAsembly\obj\Debug\MYAsembly.csprojResolveAssemblyReference.cache
+E:\c#\C# Project\twoelApp\MYAsembly\obj\Debug\MYAsembly.dll
+E:\c#\C# Project\twoelApp\MYAsembly\obj\Debug\MYAsembly.pdb

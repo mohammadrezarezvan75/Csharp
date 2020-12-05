@@ -1,0 +1,6 @@
+C:\Users\MRZR\Desktop\C# Project\SecoundApp\SecoundApp\bin\Debug\SecoundApp.exe.config
+C:\Users\MRZR\Desktop\C# Project\SecoundApp\SecoundApp\obj\Debug\SecoundApp.csprojResolveAssemblyReference.cache
+C:\Users\MRZR\Desktop\C# Project\SecoundApp\SecoundApp\bin\Debug\SecoundApp.exe
+C:\Users\MRZR\Desktop\C# Project\SecoundApp\SecoundApp\bin\Debug\SecoundApp.pdb
+C:\Users\MRZR\Desktop\C# Project\SecoundApp\SecoundApp\obj\Debug\SecoundApp.exe
+C:\Users\MRZR\Desktop\C# Project\SecoundApp\SecoundApp\obj\Debug\SecoundApp.pdb

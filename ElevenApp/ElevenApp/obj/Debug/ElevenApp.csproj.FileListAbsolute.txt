@@ -1,0 +1,6 @@
+E:\c#\C# Project\ElevenApp\ElevenApp\bin\Debug\ElevenApp.exe.config
+E:\c#\C# Project\ElevenApp\ElevenApp\bin\Debug\ElevenApp.exe
+E:\c#\C# Project\ElevenApp\ElevenApp\bin\Debug\ElevenApp.pdb
+E:\c#\C# Project\ElevenApp\ElevenApp\obj\Debug\ElevenApp.csprojResolveAssemblyReference.cache
+E:\c#\C# Project\ElevenApp\ElevenApp\obj\Debug\ElevenApp.exe
+E:\c#\C# Project\ElevenApp\ElevenApp\obj\Debug\ElevenApp.pdb

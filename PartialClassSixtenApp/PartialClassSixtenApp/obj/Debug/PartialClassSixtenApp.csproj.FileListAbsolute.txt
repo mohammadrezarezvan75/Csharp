@@ -1,0 +1,6 @@
+E:\c#\C# Project\PartialClassSixtenApp\PartialClassSixtenApp\bin\Debug\PartialClassSixtenApp.exe.config
+E:\c#\C# Project\PartialClassSixtenApp\PartialClassSixtenApp\bin\Debug\PartialClassSixtenApp.exe
+E:\c#\C# Project\PartialClassSixtenApp\PartialClassSixtenApp\bin\Debug\PartialClassSixtenApp.pdb
+E:\c#\C# Project\PartialClassSixtenApp\PartialClassSixtenApp\obj\Debug\PartialClassSixtenApp.csprojResolveAssemblyReference.cache
+E:\c#\C# Project\PartialClassSixtenApp\PartialClassSixtenApp\obj\Debug\PartialClassSixtenApp.exe
+E:\c#\C# Project\PartialClassSixtenApp\PartialClassSixtenApp\obj\Debug\PartialClassSixtenApp.pdb

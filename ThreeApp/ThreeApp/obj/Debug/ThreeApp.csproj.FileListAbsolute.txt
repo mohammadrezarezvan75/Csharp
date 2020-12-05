@@ -1,0 +1,9 @@
+C:\Users\MRZR\Desktop\C# Project\ThreeApp\ThreeApp\bin\Debug\ThreeApp.exe.config
+C:\Users\MRZR\Desktop\C# Project\ThreeApp\ThreeApp\bin\Debug\ThreeApp.exe
+C:\Users\MRZR\Desktop\C# Project\ThreeApp\ThreeApp\bin\Debug\ThreeApp.pdb
+C:\Users\MRZR\Desktop\C# Project\ThreeApp\ThreeApp\obj\Debug\ThreeApp.csprojResolveAssemblyReference.cache
+C:\Users\MRZR\Desktop\C# Project\ThreeApp\ThreeApp\obj\Debug\ThreeApp.exe
+C:\Users\MRZR\Desktop\C# Project\ThreeApp\ThreeApp\obj\Debug\ThreeApp.pdb
+E:\c#\C# Project\ThreeApp\ThreeApp\bin\Debug\ThreeApp.exe.config
+E:\c#\C# Project\ThreeApp\ThreeApp\obj\Debug\ThreeApp.exe
+E:\c#\C# Project\ThreeApp\ThreeApp\obj\Debug\ThreeApp.pdb

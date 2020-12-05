@@ -1,0 +1,6 @@
+E:\c#\C# Project\sixApp\PersonApp\PersonApp\bin\Debug\PersonApp.exe.config
+E:\c#\C# Project\sixApp\PersonApp\PersonApp\bin\Debug\PersonApp.exe
+E:\c#\C# Project\sixApp\PersonApp\PersonApp\bin\Debug\PersonApp.pdb
+E:\c#\C# Project\sixApp\PersonApp\PersonApp\obj\Debug\PersonApp.exe
+E:\c#\C# Project\sixApp\PersonApp\PersonApp\obj\Debug\PersonApp.pdb
+E:\c#\C# Project\sixApp\PersonApp\PersonApp\obj\Debug\PersonApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\c#\C# Project\EightApp\EightApp\bin\Debug\EightApp.exe.config
+E:\c#\C# Project\EightApp\EightApp\bin\Debug\EightApp.exe
+E:\c#\C# Project\EightApp\EightApp\bin\Debug\EightApp.pdb
+E:\c#\C# Project\EightApp\EightApp\obj\Debug\EightApp.csprojResolveAssemblyReference.cache
+E:\c#\C# Project\EightApp\EightApp\obj\Debug\EightApp.exe
+E:\c#\C# Project\EightApp\EightApp\obj\Debug\EightApp.pdb

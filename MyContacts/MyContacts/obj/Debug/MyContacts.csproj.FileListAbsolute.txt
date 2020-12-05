@@ -1,0 +1,10 @@
+E:\c#\C# Project\MyContacts\MyContacts\bin\Debug\MyContacts.exe.config
+E:\c#\C# Project\MyContacts\MyContacts\bin\Debug\MyContacts.exe
+E:\c#\C# Project\MyContacts\MyContacts\bin\Debug\MyContacts.pdb
+E:\c#\C# Project\MyContacts\MyContacts\obj\Debug\MyContacts.Form1.resources
+E:\c#\C# Project\MyContacts\MyContacts\obj\Debug\MyContacts.Properties.Resources.resources
+E:\c#\C# Project\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.GenerateResource.Cache
+E:\c#\C# Project\MyContacts\MyContacts\obj\Debug\MyContacts.exe
+E:\c#\C# Project\MyContacts\MyContacts\obj\Debug\MyContacts.pdb
+E:\c#\C# Project\MyContacts\MyContacts\obj\Debug\MyContacts.FrmAddorEdit.resources
+E:\c#\C# Project\MyContacts\MyContacts\obj\Debug\MyContacts.csprojResolveAssemblyReference.cache

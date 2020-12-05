@@ -1,0 +1,6 @@
+E:\c#\C# Project\sixApp\sixApp\bin\Debug\sixApp.exe.config
+E:\c#\C# Project\sixApp\sixApp\bin\Debug\sixApp.exe
+E:\c#\C# Project\sixApp\sixApp\bin\Debug\sixApp.pdb
+E:\c#\C# Project\sixApp\sixApp\obj\Debug\sixApp.csprojResolveAssemblyReference.cache
+E:\c#\C# Project\sixApp\sixApp\obj\Debug\sixApp.exe
+E:\c#\C# Project\sixApp\sixApp\obj\Debug\sixApp.pdb

@@ -1,0 +1,5 @@
+E:\c#\C# Project\twoelApp\twoelApp\bin\Debug\twoelApp.exe.config
+E:\c#\C# Project\twoelApp\twoelApp\bin\Debug\twoelApp.exe
+E:\c#\C# Project\twoelApp\twoelApp\bin\Debug\twoelApp.pdb
+E:\c#\C# Project\twoelApp\twoelApp\obj\Debug\twoelApp.exe
+E:\c#\C# Project\twoelApp\twoelApp\obj\Debug\twoelApp.pdb

@@ -1,0 +1,9 @@
+C:\Users\MRZR\Desktop\C# Project\FirstApp\FiveApp_if\FiveApp_if\bin\Debug\FiveApp_if.exe.config
+C:\Users\MRZR\Desktop\C# Project\FirstApp\FiveApp_if\FiveApp_if\bin\Debug\FiveApp_if.exe
+C:\Users\MRZR\Desktop\C# Project\FirstApp\FiveApp_if\FiveApp_if\bin\Debug\FiveApp_if.pdb
+C:\Users\MRZR\Desktop\C# Project\FirstApp\FiveApp_if\FiveApp_if\obj\Debug\FiveApp_if.csprojResolveAssemblyReference.cache
+C:\Users\MRZR\Desktop\C# Project\FirstApp\FiveApp_if\FiveApp_if\obj\Debug\FiveApp_if.exe
+C:\Users\MRZR\Desktop\C# Project\FirstApp\FiveApp_if\FiveApp_if\obj\Debug\FiveApp_if.pdb
+C:\Users\MRZR\Desktop\C# Project\FiveApp_if\FiveApp_if\bin\Debug\FiveApp_if.exe.config
+C:\Users\MRZR\Desktop\C# Project\FiveApp_if\FiveApp_if\obj\Debug\FiveApp_if.exe
+C:\Users\MRZR\Desktop\C# Project\FiveApp_if\FiveApp_if\obj\Debug\FiveApp_if.pdb

@@ -1,0 +1,6 @@
+E:\c#\C# Project\ProjectNine\ProjectNine\bin\Debug\ProjectNine.exe.config
+E:\c#\C# Project\ProjectNine\ProjectNine\obj\Debug\ProjectNine.csprojResolveAssemblyReference.cache
+E:\c#\C# Project\ProjectNine\ProjectNine\bin\Debug\ProjectNine.exe
+E:\c#\C# Project\ProjectNine\ProjectNine\bin\Debug\ProjectNine.pdb
+E:\c#\C# Project\ProjectNine\ProjectNine\obj\Debug\ProjectNine.exe
+E:\c#\C# Project\ProjectNine\ProjectNine\obj\Debug\ProjectNine.pdb

@@ -1,0 +1,4 @@
+E:\c#\C# Project\twoelApp\Asambly\bin\Debug\Asambly.dll
+E:\c#\C# Project\twoelApp\Asambly\bin\Debug\Asambly.pdb
+E:\c#\C# Project\twoelApp\Asambly\obj\Debug\Asambly.dll
+E:\c#\C# Project\twoelApp\Asambly\obj\Debug\Asambly.pdb

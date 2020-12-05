@@ -1,0 +1,5 @@
+E:\c#\C# Project\TenApp\Genericlist\Genericlist\bin\Debug\Genericlist.exe.config
+E:\c#\C# Project\TenApp\Genericlist\Genericlist\bin\Debug\Genericlist.exe
+E:\c#\C# Project\TenApp\Genericlist\Genericlist\bin\Debug\Genericlist.pdb
+E:\c#\C# Project\TenApp\Genericlist\Genericlist\obj\Debug\Genericlist.exe
+E:\c#\C# Project\TenApp\Genericlist\Genericlist\obj\Debug\Genericlist.pdb

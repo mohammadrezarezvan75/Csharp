@@ -1,0 +1,4 @@
+E:\c#\C# Project\twoelApp\Ass\bin\Debug\Ass.dll
+E:\c#\C# Project\twoelApp\Ass\bin\Debug\Ass.pdb
+E:\c#\C# Project\twoelApp\Ass\obj\Debug\Ass.dll
+E:\c#\C# Project\twoelApp\Ass\obj\Debug\Ass.pdb

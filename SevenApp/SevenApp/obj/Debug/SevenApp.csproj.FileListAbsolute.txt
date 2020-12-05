@@ -1,0 +1,6 @@
+E:\c#\C# Project\SevenApp\SevenApp\bin\Debug\SevenApp.exe.config
+E:\c#\C# Project\SevenApp\SevenApp\bin\Debug\SevenApp.exe
+E:\c#\C# Project\SevenApp\SevenApp\bin\Debug\SevenApp.pdb
+E:\c#\C# Project\SevenApp\SevenApp\obj\Debug\SevenApp.csprojResolveAssemblyReference.cache
+E:\c#\C# Project\SevenApp\SevenApp\obj\Debug\SevenApp.exe
+E:\c#\C# Project\SevenApp\SevenApp\obj\Debug\SevenApp.pdb

@@ -1,0 +1,9 @@
+C:\Users\MRZR\Desktop\C# Project\FourApp\FourApp\bin\Debug\FourApp.exe.config
+C:\Users\MRZR\Desktop\C# Project\FourApp\FourApp\bin\Debug\FourApp.exe
+C:\Users\MRZR\Desktop\C# Project\FourApp\FourApp\bin\Debug\FourApp.pdb
+C:\Users\MRZR\Desktop\C# Project\FourApp\FourApp\obj\Debug\FourApp.csprojResolveAssemblyReference.cache
+C:\Users\MRZR\Desktop\C# Project\FourApp\FourApp\obj\Debug\FourApp.exe
+C:\Users\MRZR\Desktop\C# Project\FourApp\FourApp\obj\Debug\FourApp.pdb
+E:\c#\C# Project\FourApp\FourApp\bin\Debug\FourApp.exe.config
+E:\c#\C# Project\FourApp\FourApp\obj\Debug\FourApp.exe
+E:\c#\C# Project\FourApp\FourApp\obj\Debug\FourApp.pdb

@@ -1,0 +1,9 @@
+E:\c#\C# Project\HelloWordWithWindows\HelloWordWithWindows\bin\Debug\HelloWordWithWindows.exe.config
+E:\c#\C# Project\HelloWordWithWindows\HelloWordWithWindows\bin\Debug\HelloWordWithWindows.exe
+E:\c#\C# Project\HelloWordWithWindows\HelloWordWithWindows\bin\Debug\HelloWordWithWindows.pdb
+E:\c#\C# Project\HelloWordWithWindows\HelloWordWithWindows\obj\Debug\HelloWordWithWindows.csprojResolveAssemblyReference.cache
+E:\c#\C# Project\HelloWordWithWindows\HelloWordWithWindows\obj\Debug\HelloWordWithWindows.Form1.resources
+E:\c#\C# Project\HelloWordWithWindows\HelloWordWithWindows\obj\Debug\HelloWordWithWindows.Properties.Resources.resources
+E:\c#\C# Project\HelloWordWithWindows\HelloWordWithWindows\obj\Debug\HelloWordWithWindows.csproj.GenerateResource.Cache
+E:\c#\C# Project\HelloWordWithWindows\HelloWordWithWindows\obj\Debug\HelloWordWithWindows.exe
+E:\c#\C# Project\HelloWordWithWindows\HelloWordWithWindows\obj\Debug\HelloWordWithWindows.pdb

@@ -1,0 +1,6 @@
+E:\c#\C# Project\TenApp\TenApp\bin\Debug\TenApp.exe.config
+E:\c#\C# Project\TenApp\TenApp\bin\Debug\TenApp.exe
+E:\c#\C# Project\TenApp\TenApp\bin\Debug\TenApp.pdb
+E:\c#\C# Project\TenApp\TenApp\obj\Debug\TenApp.csprojResolveAssemblyReference.cache
+E:\c#\C# Project\TenApp\TenApp\obj\Debug\TenApp.exe
+E:\c#\C# Project\TenApp\TenApp\obj\Debug\TenApp.pdb
